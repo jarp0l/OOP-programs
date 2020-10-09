@@ -1,5 +1,6 @@
 # OOP-programs
 
+<<<<<<< HEAD
 My programming works of C/C++/OOP BECIE I/II (Assignments, Lab)
 
 ---
@@ -33,3 +34,6 @@ All the programs have been classfied according to their types(i.e. whether assig
         - [a1.9.cpp](./ASSIGNMENTS/assignment 1/a1.9.cpp)
         - [a1.10a.cpp](./ASSIGNMENTS/assignment 1/a1.10a.cpp)
         - [a1.10b.cpp](./ASSIGNMENTS/assignment 1/a1.10b.cpp)
+=======
+My programming works related to OOP/C++ BECIE I/II (Assignment, Lab)
+>>>>>>> 8c602d5a172573feb883dcead0625f49523a3789
