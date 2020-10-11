@@ -27,11 +27,10 @@ All the programs have been classfied according to their types(i.e. whether assig
         - [l2.4.cpp](./LAB/lab-2/l2.4.cpp)
 
 * [ASSIGNMENTS:](./ASSIGNMENTS/)
-    - [assignment 1:](./ASSIGNMENTS/assignment-1/)
+    - [assignment-1:](./ASSIGNMENTS/assignment-1/)
         - [a1.1.cpp](./ASSIGNMENTS/assignment-1/a1.1.cpp)
         - [a1.2.cpp](./ASSIGNMENTS/assignment-1/a1.2.cpp)
         - [a1.3.cpp](./ASSIGNMENTS/assignment-1/la.3.cpp)
-        - [a1.4.cpp](./ASSIGNMENTS/assignment-1/a1.4.cpp)
         - [a1.5.cpp](./ASSIGNMENTS/assignment-1/a1.5.cpp)
         - [a1.6.cpp](./ASSIGNMENTS/assignment-1/a1.6.cpp)
         - [a1.7.cpp](./ASSIGNMENTS/assignment-1/a1.7.cpp)

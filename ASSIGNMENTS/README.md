@@ -6,7 +6,6 @@
     - [a1.1.cpp](./assignment-1/a1.1.cpp)
     - [a1.2.cpp](./assignment-1/a1.2.cpp)
     - [a1.3.cpp](./assignment-1/la.3.cpp)
-    - [a1.4.cpp](./assignment-1/a1.4.cpp)
     - [a1.5.cpp](./assignment-1/a1.5.cpp)
     - [a1.6.cpp](./assignment-1/a1.6.cpp)
     - [a1.7.cpp](./assignment-1/a1.7.cpp)
