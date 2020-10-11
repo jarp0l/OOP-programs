@@ -12,22 +12,22 @@ All the programs have been classfied according to their types(i.e. whether assig
 
 # Contents:
 
-* [LAB:](./LAB/)
-    - [lab 1:](./LAB/lab-1/)
+- [LAB:](./LAB/)
+    + [lab-1:](./LAB/lab-1/)
         - [l1.1.c](./LAB/lab-1/l1.1.c)
         - [l1.2.c](./LAB/lab-1/l1.2.c)
         - [l1.3.cpp](./LAB/lab-1/l1.3.cpp)
         - [l1.4.cpp](./LAB/lab-1/l1.4.cpp)
         - [l1.5.cpp](./LAB/lab-1/l1.5.cpp)
 
-    - [lab-2:](./LAB/lab-2/)
+    + [lab-2:](./LAB/lab-2/)
         - [l2.1.cpp](./LAB/lab-2/l2.1.cpp)
         - [l2.2.cpp](./LAB/lab-2/l2.2.cpp)
         - [l2.3.cpp](./LAB/lab-2/l2.3.cpp)
         - [l2.4.cpp](./LAB/lab-2/l2.4.cpp)
 
-* [ASSIGNMENTS:](./ASSIGNMENTS/)
-    - [assignment-1:](./ASSIGNMENTS/assignment-1/)
+- [ASSIGNMENTS:](./ASSIGNMENTS/)
+    + [assignment-1:](./ASSIGNMENTS/assignment-1/)
         - [a1.1.cpp](./ASSIGNMENTS/assignment-1/a1.1.cpp)
         - [a1.2.cpp](./ASSIGNMENTS/assignment-1/a1.2.cpp)
         - [a1.3.cpp](./ASSIGNMENTS/assignment-1/la.3.cpp)
